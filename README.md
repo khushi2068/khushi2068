@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Khushi Agarwal 👋
 
 <!--
 **khushi2068/khushi2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

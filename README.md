@@ -3,49 +3,25 @@
 🌱 **About Me:**
 - 🎓 I'm currently learning everything I can about tech and software development.
 
-🔭 **My Interests:**
-- I'm interested in a wide range of technologies, including machine learning, and data science.
-- I love exploring new tech tools and frameworks to stay up-to-date with the latest industry trends.
-
 👨‍💻 **My Work:**
 - Check out my repositories here on GitHub to see some of the projects I've been working on!
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+</p>
 
-### Languages and Tools:
-
-[<img align="left" alt="C++" width="26px" src="URL-to-C++-icon" />][cplusplus]
-[<img align="left" alt="Python" width="26px" src="URL-to-Python-icon" />][python]
-[<img align="left" alt="C" width="26px" src="URL-to-C-icon" />][c]
-[<img align="left" alt="JavaScript" width="26px" src="URL-to-JavaScript-icon" />][javascript]
-[<img align="left" alt="HTML5" width="26px" src="URL-to-HTML5-icon" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="URL-to-CSS3-icon" />][css3]
-[<img align="left" alt="React" width="26px" src="URL-to-React-icon" />][react]
-[<img align="left" alt="Git" width="26px" src="URL-to-Git-icon" />][git]
-[<img align="left" alt="GitHub" width="26px" src="URL-to-GitHub-icon" />][github]
-[<img align="left" alt="Postman" width="26px" src="URL-to-Postman-icon" />][postman]
-[<img align="left" alt="Jupyter" width="26px" src="URL-to-Jupyter-icon" />][jupyter]
-[<img align="left" alt="Visual Studio Code" width="26px" src="URL-to-VSCode-icon" />][vscode]
-
-<br />
-<br />
-
----
-
-[cplusplus]: URL-to-C++-resource
-[python]: https://python.org/
-[c]: URL-to-C-resource
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[react]: https://reactjs.org/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[postman]: https://www.postman.com/
-[jupyter]: https://jupyter.org/
-[vscode]: https://code.visualstudio.com/
-
----
 
 <!--
 **khushi2068/khushi2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

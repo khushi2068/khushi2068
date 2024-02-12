@@ -20,9 +20,13 @@
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi2068&show_icons=true&theme=dark&locale=en&layout=compact" alt="khushi2068" /></p>
 
 
+
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi2068&langs_count=8&theme=dark&layout=compact" alt="khushi2068's Most Used Languages" />
 </p>
 
 

@@ -27,12 +27,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi2068&langs_count=8&theme=dark&layout=compact" alt="khushi2068's Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2068&theme=dark" alt="khushi2068" />
+  
 </p>
 
+<p align="center">
 
-
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2068&theme=dark" alt="khushi2068" />
+ 
+</p>
 
 
 <!--

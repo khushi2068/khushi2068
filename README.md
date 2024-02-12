@@ -1,8 +1,11 @@
-<!--
-### Hi there, I'm Khushi Agarwal 👋
+
+<h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
+<h3 align="center">A passionate coder from India</h3>
 
 🌱 **About Me:**
 - 🎓 I'm currently learning everything I can about tech and software development.
+
+- 📫 How to reach me **kagarwal4_be21@thapar.edu**
 
 👨‍💻 **My Work:**
 - Check out my repositories here on GitHub to see some of the projects I've been working on!
@@ -37,8 +40,9 @@
  
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi2068" alt="khushi2068" /></a> </p>
 
-
+<!--
 **khushi2068/khushi2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,7 +55,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -75,3 +79,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2068&show_icons=true&locale=en" alt="khushi2068" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2068&" alt="khushi2068" /></p>
+-->

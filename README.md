@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi2068&langs_count=8&theme=dark&layout=compact" alt="khushi2068's Most Used Languages" />
 </p>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 
